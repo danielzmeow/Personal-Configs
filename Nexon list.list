@@ -16,5 +16,5 @@ HOST-SUFFIX,forum.nexon.com,PROXY
 HOST-KEYWORD,log.nexon,PROXY
 HOST-KEYWORD,ssl.nexon,PROXY
 HOST-SUFFIX,gtable.inface.nexon.com,PROXY
-HOST-SUFFIX,na.nexon,com,PROXY
+HOST-SUFFIX,na.nexon.com,PROXY
 HOST-SUFFIX,ngsm.nexon.com,PROXY
