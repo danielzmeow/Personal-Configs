@@ -1,0 +1,10 @@
+# Nexon list
+HOST-SUFFIX,stamp.mp.nexon.com,PROXY
+HOST-SUFFIX,m.nexon.com,PROXY
+HOST-SUFFIX,ba.dn.nexoncan.co.kr,PROXY
+HOST-SUFFIX,nxm-eu-bagl.nexon.com,PROXY
+HOST-SUFFIX,api.ngsm.nexon.com,PROXY
+HOST-SUFFIX,log.ngsm.nexon.com,PROXY
+HOST-SUFFIX,sdk-push.mp.nexon.com,PROXY
+HOST-SUFFIX,m-api.nexon.com,PROXY
+HOST-SUFFIX,jp.livelog.nexon.com,PROXY
