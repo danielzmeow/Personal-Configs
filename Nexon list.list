@@ -10,9 +10,11 @@ HOST-SUFFIX,log.ngsm.nexon.com,PROXY
 HOST-SUFFIX,sdk-push.mp.nexon.com,PROXY
 HOST-SUFFIX,m-api.nexon.com,PROXY
 HOST-SUFFIX,public.api.nexon.com,PROXY
+HOST-SUFFIX,api-patch.nexon.com,PROXY
 HOST-SUFFIX,jp.livelog.nexon.com,PROXY
 HOST-SUFFIX,forum.nexon.com,PROXY
-HOST-SUFFIX,log.nexon.io,PROXY
-HOST-SUFFIX,ssl.nexon.io,PROXY
+HOST-KEYWORD,log.nexon,PROXY
+HOST-KEYWORD,ssl.nexon,PROXY
 HOST-SUFFIX,gtable.inface.nexon.com,PROXY
+HOST_SUFFIX,na.nexon,com,PROXY
 HOST-SUFFIX,ngsm.nexon.com,PROXY
