@@ -2,3 +2,4 @@ host-suffix, emby.misakaf.org, PROXY
 host-suffix, porn.aca.best, PROXY
 host-suffix, emby.aca.best, PROXY
 host-suffix, push-kr.misakaf.org, PROXY
+IR-CIDR, 102.223.180.108/32, PROXY
